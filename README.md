@@ -14,12 +14,18 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 ✅ Ability to stop reminders by typing "quit" or "q".
 
-Tech Stack
+**Tech Stack**
+
 Python 🐍
+
 Libraries Used:
+
 win32com.client (for voice notifications)
+
 win10toast (for desktop notifications)
+
 threading (for non-blocking quit mechanism)
+
 How to Run
 Clone the repository:
 bash
