@@ -1,12 +1,17 @@
 **Notification Reminder** 🛎️
-          A simple Python-based reminder system that provides voice alerts and desktop notifications.
+
+A simple Python-based reminder system that provides voice alerts and desktop notifications.
           
 **Features**
 
 ✅ Set custom reminder messages.
+
 ✅ Specify the reminder time in hours, minutes, and seconds.
+
 ✅ Get voice notifications using Windows' text-to-speech (TTS).
+
 ✅ Receive desktop notifications using Win10 Toast Notifier.
+
 ✅ Ability to stop reminders by typing "quit" or "q".
 
 Tech Stack
