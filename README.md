@@ -16,15 +16,15 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 **Tech Stack**
 
-*** Python 🐍
+**-** Python 🐍
 
-Libraries Used:
+**-** Libraries Used:
 
-win32com.client (for voice notifications)
+**-****-** win32com.client (for voice notifications)
 
-win10toast (for desktop notifications)
+**-****-** win10toast (for desktop notifications)
 
-threading (for non-blocking quit mechanism)
+**-****-** threading (for non-blocking quit mechanism)
 
 **How to Run**
 
