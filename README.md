@@ -26,31 +26,34 @@ win10toast (for desktop notifications)
 
 threading (for non-blocking quit mechanism)
 
-How to Run
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/notification-reminder.git
-Navigate to the project folder:
-bash
-Copy
-Edit
-cd notification-reminder
-Install dependencies:
-bash
-Copy
-Edit
-pip install pywin32 win10toast
-Run the script:
-bash
-Copy
-Edit
-python reminder.py
-Usage
+**How to Run**
+
+**1.** Clone the repository:
+
+**git clone https://github.com/yourusername/notification-reminder.git**
+
+**2.** Navigate to the project folder:
+
+**cd notification-reminder**
+
+**3.** Install dependencies:
+
+**pip install pywin32 win10toast**
+
+**4.** Run the script:
+
+**python reminder.py**
+
+**Usage**
+
 Enter the reminder message when prompted.
+
 Set the time interval (hours, minutes, and seconds).
+
 The system will notify you once the timer expires.
+
 Type "quit" or "q" anytime to stop the reminders.
-Contributing
+
+**Contributing**
+
 Feel free to fork this repository and contribute! 🚀
