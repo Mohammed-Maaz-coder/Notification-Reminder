@@ -20,11 +20,11 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 **-** Libraries Used:
 
-**-****-** win32com.client (for voice notifications)
+**-** win32com.client (for voice notifications)
 
-**-****-** win10toast (for desktop notifications)
+**-** win10toast (for desktop notifications)
 
-**-****-** threading (for non-blocking quit mechanism)
+**-** threading (for non-blocking quit mechanism)
 
 **How to Run**
 
@@ -46,14 +46,14 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 **Usage**
 
-Enter the reminder message when prompted.
+**-** Enter the reminder message when prompted.
 
-Set the time interval (hours, minutes, and seconds).
+**-** Set the time interval (hours, minutes, and seconds).
 
-The system will notify you once the timer expires.
+**-** The system will notify you once the timer expires.
 
-Type "quit" or "q" anytime to stop the reminders.
+**-** Type "quit" or "q" anytime to stop the reminders.
 
 **Contributing**
 
-Feel free to fork this repository and contribute! 🚀
+**Feel free to fork this repository and contribute! 🚀**
