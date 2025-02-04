@@ -1,4 +1,4 @@
-****Notification Reminder**** 🛎️
+**Notification Reminder** 🛎️
 
 A simple Python-based reminder system that provides voice alerts and desktop notifications.
           
@@ -16,7 +16,7 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 **Tech Stack**
 
-Python 🐍
+*** Python 🐍
 
 Libraries Used:
 
