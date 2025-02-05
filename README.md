@@ -26,24 +26,6 @@ A simple Python-based reminder system that provides voice alerts and desktop not
 
 **-** threading (for non-blocking quit mechanism)
 
-**How to Run**
-
-**1.** Clone the repository:
-
-**git clone https://github.com/yourusername/notification-reminder.git**
-
-**2.** Navigate to the project folder:
-
-**cd notification-reminder**
-
-**3.** Install dependencies:
-
-**pip install pywin32 win10toast**
-
-**4.** Run the script:
-
-**python reminder.py**
-
 **Usage**
 
 **-** Enter the reminder message when prompted.
